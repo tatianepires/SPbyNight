@@ -1,0 +1,66 @@
+<?php
+return [
+    'html_lang' => 'en',
+    'meta' => [
+        'title' => 'SP by Night &mdash; Original Vampire: The Masquerade RPG setting created by Tatiane Pires',
+    ],
+    'nav' => [
+        'home'        => 'Home',
+        'about'       => 'About',
+        'storyteller' => 'Storyteller',
+        'play'        => 'Join Us',
+        'contact'     => 'Contact',
+        'switch_code' => 'pt',
+        'switch_text' => 'PT',
+        'switch_aria' => 'Mudar idioma para Português',
+    ],
+    'hero' => [
+        'subtitle' => 'Original Vampire: The Masquerade RPG setting created by Storyteller <span class="hero-storyteller waterfall-regular">Tatiane Pires</span>.',
+        'cta'      => 'Learn More',
+    ],
+    'about' => [
+        'heading' => 'São Paulo by Night',
+        'img_alt' => 'Eduardo Kobra cyclist mural at Faria Lima, São Paulo',
+        'p1'      => 'This is São Paulo as it exists in the World of Darkness: a city much like the one we know, yet whose familiar streets conceal a world beyond mortal comprehension.',
+        'p2'      => 'Here, vampires, werewolves, mages, wraiths, and countless other supernatural creatures walk among the living, hidden behind ordinary faces and shielded by the Masquerade of daily life. Ancient rivalries unfold alongside modern ambitions, secrets change hands in the shadows, and the struggle for power never truly ends.',
+        'p3'      => 'For the Kindred, São Paulo is a city of opportunity and peril—of territories to claim, alliances to forge, and debts that can span generations. When the sun sets over the vast metropolis, the undead awaken in their havens, ready to claim the hours that belong to them.',
+        'p4'      => 'The city never sleeps. And when night falls, its secrets awaken too.',
+    ],
+    'storyteller' => [
+        'heading' => 'Tatiane Pires &mdash; Storyteller',
+        'img_alt' => 'Tatiane Pires',
+        'p1'      => 'I am the creator and Head Storyteller of SP by Night, a Vampire: The Masquerade setting built around a city I want to feel as real as it is mysterious.',
+        'p2'      => 'I love building coherent worlds, developing complex characters, and exploring the political intrigues, relationships, and personal conflicts that make the World of Darkness far more than a backdrop filled with monsters. I value continuity and detail, while always leaving room for the unexpected.',
+        'p3'      => 'To me, a chronicle is not merely a story I tell to players. It is a world we explore together, where your characters hold their own ambitions, make meaningful choices, and can leave their mark on the city.',
+        'p4'      => 'I bring the setting, its cast, and the situations that draw them into each other’s orbit. And what happens next? That is something we discover together at the table.',
+    ],
+    'play' => [
+        'heading' => 'Explore São Paulo by Night',
+        'p1'      => 'Want to learn more about São Paulo by Night? You can find more information about the setting, its characters, and the world they inhabit on the dedicated setting page. Whether you’re curious about the hidden world of the Kindred, the mysteries of the World of Darkness, or the stories unfolding across the city, there’s plenty to explore.',
+        'p2'      => 'If you’d like to experience these stories firsthand, you’ll also find information about my chronicles, upcoming sessions, and opportunities to join the game. You don’t need previous experience with *Vampire: The Masquerade* or the World of Darkness to take part. Whether you’re a seasoned player or discovering this world for the first time, you’re welcome at my table. All you need is curiosity and a willingness to explore the night.',
+        'where_to_play_subheading' => 'StartPlaying',
+        'where_to_play_text' => 'Discover my chronicles, explore upcoming sessions, and find out how to join a game. Newcomers and experienced players alike are welcome!',
+        'where_to_play_link' => 'https://spbynight.city/StartPlaying',
+        'where_to_play_link_text' => 'spbynight.city/StartPlaying',
+        'setting_info_subheading' => 'World Craft',
+        'setting_info_text' => 'Discover the world of SP by Night, its characters, and the hidden supernatural society that shapes the city after sunset.',
+        'setting_info_link' => 'https://spbynight.city/MesaQuest',
+        'setting_info_link_text' => 'spbynight.city/MesaQuest',
+        'discord_server_subheading' => 'Discord',
+        'discord_server_text' => 'Join the SP by Night Discord server to meet fellow players, discuss the setting, share ideas, and stay updated on chronicles and events.',
+        'discord_server_link' => 'https://spbynight.city/Discord',
+        'discord_server_link_text' => 'spbynight.city/Discord',
+    ],
+    'content_warning' => [
+        'heading' => 'Content Warning and Safety Tools',
+        'p1'      => 'Vampire: The Masquerade is a game of personal and supernatural horror that explores mature themes and sensitive subjects, which may include violence, blood, death, manipulation, abuse, and moral dilemmas. As such, the chronicles of São Paulo by Night are intended exclusively for adults aged 18 and over.',
+        'p2'      => 'Every chronicle begins with a Session Zero, a dedicated meeting to discuss expectations, establish boundaries, and ensure everyone is comfortable with the themes explored in the game. Safety tools, such as Lines and Veils, the X-Card, and others, are used throughout play to help establish and respect each participant’s limits. Player comfort, mutual respect, and open communication are essential to creating a safe and enjoyable gaming experience for everyone at the table.',
+    ],
+    'contact' => [
+        'heading' => 'Contact',
+        'prompt'  => 'Send your message to',
+    ],
+    'footer' => [
+        'credit' => 'SP by Night is an original Vampire: The Masquerade RPG setting created by <a href="https://tatianepires.com.br/">Tatiane Pires</a>.',
+    ],
+];

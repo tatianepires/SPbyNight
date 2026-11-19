@@ -1,0 +1,37 @@
+# YOURLS core directories
+/admin/
+/css/
+/images/
+/includes/
+/js/
+/pages/
+/sample-public-front-page.php
+/sample-robots.txt
+/user/
+
+# YOURLS core root files
+/yourls-api.php
+/yourls-go.php
+/yourls-infos.php
+/yourls-loader.php
+/readme.html
+/README.md
+/SECURITY.md
+/CHANGELOG.md
+/CONTRIBUTING.md
+/LICENSE
+/composer.json
+/composer.lock
+
+# Local development and environment
+/router.php
+.env
+*.log
+
+# OS and editor files
+/c
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

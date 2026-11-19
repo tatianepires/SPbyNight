@@ -1,0 +1,66 @@
+<?php
+return [
+    'html_lang' => 'pt-BR',
+    'meta' => [
+        'title' => 'SP by Night &mdash; Cenário autoral do RPG Vampiro: A Máscara criado por Tatiane Pires',
+    ],
+    'nav' => [
+        'home'        => 'Home',
+        'about'       => 'Sobre',
+        'storyteller' => 'Storyteller',
+        'play'        => 'Jogue Também',
+        'contact'     => 'Contato',
+        'switch_code' => 'en',
+        'switch_text' => 'EN',
+        'switch_aria' => 'Switch language to English',
+    ],
+    'hero' => [
+        'subtitle' => 'Cenário original para o RPG Vampiro: A Máscara criado pela Storyteller <span class="hero-storyteller waterfall-regular">Tatiane Pires</span>.',
+        'cta'      => 'Saiba Mais',
+    ],
+    'about' => [
+        'heading' => 'São Paulo by Night',
+        'img_alt' => 'Mural ciclista de Eduardo Kobra na Faria Lima, São Paulo',
+        'p1'      => 'Esta é São Paulo como existe no Mundo das Trevas: uma cidade muito parecida com aquela que conhecemos, mas cujas ruas familiares escondem um mundo além da compreensão dos mortais.',
+        'p2'      => 'Aqui, vampiros, lobisomens, magos, espectros e incontáveis outras criaturas sobrenaturais caminham entre os vivos, ocultos sob rostos comuns e protegidos pela Máscara do cotidiano. Antigas rivalidades se desenrolam ao lado de ambições modernas, segredos mudam de mãos nas sombras e a luta pelo poder jamais termina de verdade.',
+        'p3'      => 'Para os Membros, São Paulo é uma cidade de oportunidades e perigos, de territórios a conquistar, alianças a forjar e dívidas que podem atravessar gerações. Quando o sol se põe sobre a vasta metrópole, os mortos-vivos despertam em seus refúgios, prontos para reivindicar as horas que lhes pertencem.',
+        'p4'      => 'A cidade nunca dorme. E, quando a noite cai, seus segredos também despertam.',
+    ],
+    'storyteller' => [
+        'heading' => 'Tatiane Pires &mdash; Storyteller',
+        'img_alt' => 'Tatiane Pires',
+        'p1'      => 'Sou a criadora e Head Storyteller do SP by Night, um cenário de Vampiro: A Máscara construído em torno de uma cidade que quero que pareça tão real quanto misteriosa.',
+        'p2'      => 'Gosto de construir mundos coerentes, desenvolver personagens complexos e explorar as intrigas políticas, os relacionamentos e os conflitos pessoais que fazem do Mundo das Trevas algo mais do que um cenário repleto de monstros. Valorizo a continuidade e os detalhes, mas também o espaço para o inesperado.',
+        'p3'      => 'Para mim, uma crônica não é apenas uma história que conto aos jogadores. É um mundo que exploramos juntos, onde seus personagens têm ambições próprias, fazem escolhas significativas e podem deixar sua marca na cidade.',
+        'p4'      => 'Eu trago o cenário, seus personagens e as situações que os colocam em contato uns com os outros. E o que acontece a seguir? Isso é algo que descobrimos juntos, durante o jogo.',
+    ],
+    'play' => [
+        'heading' => 'Explore São Paulo by Night',
+        'p1'      => 'Quer saber mais sobre São Paulo à Noite? Você pode encontrar mais informações sobre o cenário, seus personagens e o mundo em que vivem na página dedicada ao cenário. Seja sua curiosidade sobre o mundo oculto dos Membros, os mistérios do Mundo das Trevas ou as histórias que se desenrolam pela cidade, há muito a explorar.',
+        'p2'      => 'Se você gostaria de vivenciar essas histórias em primeira mão, também encontrará informações sobre minhas crônicas, as próximas sessões e as oportunidades de participar dos jogos. Você não precisa ter experiência prévia com *Vampiro: A Máscara* ou com o Mundo das Trevas para participar. Seja você uma pessoa experiente no hobby ou alguém que está descobrindo esse universo pela primeira vez, será bem-vinda à minha mesa. Tudo de que precisa é curiosidade e vontade de explorar a noite.',
+        'where_to_play_subheading' => 'MesaQuest',
+        'where_to_play_text' => 'Conheça minhas crônicas, confira as próximas sessões e descubra como participar de uma partida. Pessoas iniciantes e veteranas são igualmente bem-vindas!',
+        'where_to_play_link' => 'https://spbynight.city/MesaQuest',
+        'where_to_play_link_text' => 'spbynight.city/MesaQuest',
+        'setting_info_subheading' => 'World Craft',
+        'setting_info_text' => 'Conheça o universo do SP by Night, seus personagens e a sociedade sobrenatural oculta que molda a cidade após o pôr do sol.',
+        'setting_info_link' => 'https://spbynight.city/MesaQuest',
+        'setting_info_link_text' => 'spbynight.city/MesaQuest',
+        'discord_server_subheading' => 'Discord',
+        'discord_server_text' => 'Entre no servidor de Discord do SP by Night para conhecer outros jogadores, conversar sobre o cenário, compartilhar ideias e acompanhar as crônicas e os eventos.',
+        'discord_server_link' => 'https://spbynight.city/Discord',
+        'discord_server_link_text' => 'spbynight.city/Discord',
+    ],
+    'content_warning' => [
+        'heading' => 'Aviso de Conteúdo e Ferramentas  de Segurança',
+        'p1'      => 'Vampiro: A Máscara é um jogo de horror pessoal e sobrenatural que explora temas maduros e assuntos sensíveis, que podem incluir violência, sangue, morte, manipulação, abuso e dilemas morais. Por esse motivo, as crônicas de São Paulo à Noite são destinadas exclusivamente a pessoas com 18 anos ou mais.',
+        'p2'      => 'Toda crônica começa com uma Sessão Zero, um encontro dedicado a discutir expectativas, estabelecer limites e garantir que todas as pessoas se sintam confortáveis com os temas abordados durante o jogo. Ferramentas de segurança, como Linhas e Véus, o Cartão X e outras, são utilizadas ao longo das sessões para ajudar a estabelecer e respeitar os limites de cada participante. O bem-estar dos jogadores, o respeito mútuo e a comunicação aberta são essenciais para proporcionar uma experiência de jogo segura e agradável para todas as pessoas à mesa.',
+    ],
+    'contact' => [
+        'heading' => 'Contato',
+        'prompt'  => 'Envie sua mensagem para',
+    ],
+    'footer' => [
+        'credit' => 'SP by Night é um cenário autoral para o RPG Vampiro: A Máscara criado por <a href="https://tatianepires.com.br/">Tatiane Pires</a>.',
+    ],
+];
