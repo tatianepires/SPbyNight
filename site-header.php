@@ -24,6 +24,14 @@
                 <li class="nav-item"><a class="nav-link" href="#storyteller"><?php echo t('nav.storyteller'); ?></a></li>
                 <li class="nav-item"><a class="nav-link" href="#play"><?php echo t('nav.play'); ?></a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact"><?php echo t('nav.contact'); ?></a></li>
+                <li class="nav-item ms-lg-3">
+                    <a class="nav-link lang-switch"
+                    href="/<?php echo t( 'nav.switch_code' ); ?>"
+                    title="<?php echo t( 'nav.switch_aria' ); ?>"
+                    aria-label="<?php echo t( 'nav.switch_aria' ); ?>">
+                        <?php echo t( 'nav.switch_text' ); ?>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
