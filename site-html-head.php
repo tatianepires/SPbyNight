@@ -5,6 +5,11 @@
     
     <title><?php echo htmlspecialchars( t( 'meta.title' ), ENT_QUOTES, 'UTF-8' ); ?></title>
 
+    <!-- Favicon -->
+    <link rel="icon" href="./site-assets/img/favicon.ico" sizes="32x32">
+    <link rel="icon" href="./site-assets/svg/favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="./site-assets/img/apple-touch-icon.png">
+
     <!-- Open Graph (Universal Social & Messaging Preview Standard) -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="SP by Night">
