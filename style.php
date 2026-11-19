@@ -270,6 +270,47 @@
         color: var(--off-white);
     }
 
+    /* --- SVG Icons --- */
+    .svg-icon {
+        display: inline-block;
+        width: 1.15em;
+        height: 1.15em;
+        background-color: currentColor;
+        -webkit-mask: var(--icon-url) no-repeat center / contain;
+        mask: var(--icon-url) no-repeat center / contain;
+        vertical-align: middle;
+    }
+
+    /* --- Link hover gradient background --- */
+    /* Icon-paired links with soft gradient hover instead of underline */
+    section a.gradient-hover {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.45rem 1rem;
+        border-radius: 999px; /* Pill shape; change to 0.5rem for a soft rounded rectangle */
+        text-decoration: none;
+        color: #f8f9fa;
+        background-image: linear-gradient(
+            135deg,
+            rgba(120, 5, 5, 0) 0%,
+            rgba(132, 6, 6, 0) 100%
+        );
+        transition: background-image 0.3s ease, background-color 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    }
+
+    section a.gradient-hover:hover,
+    section a.gradient-hover:focus-visible {
+        text-decoration: none;
+        color: #ffffff;
+        background-image: linear-gradient(
+            135deg,
+            rgba(120, 5, 5, 0.85) 0%,
+            rgba(78, 4, 4, 0.45) 100%
+        );
+        transform: translateY(-1px);
+    }
+
     /* --- Footer Styles --- */
     .fixed-footer {
         position: fixed;
