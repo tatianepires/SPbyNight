@@ -5,6 +5,10 @@
     
     <title><?php echo htmlspecialchars( t( 'meta.title' ), ENT_QUOTES, 'UTF-8' ); ?></title>
 
+    <?php
+    include_once ABSPATH . 'site-google-analytics.html';
+    ?>
+
     <!-- Favicon -->
     <link rel="icon" href="./site-assets/img/favicon.ico" sizes="32x32">
     <link rel="icon" href="./site-assets/svg/favicon.svg" type="image/svg+xml">
