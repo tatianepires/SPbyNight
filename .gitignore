@@ -26,6 +26,9 @@
 /LICENSE
 /composer.json
 /composer.lock
+/sample-public-api.txt
+/sample-public-front-page.txt
+/sample-remote-api-call.txt
 
 # Local development and environment
 /router.php
@@ -34,6 +37,7 @@
 
 # OS and editor files
 /c
+.editorconfig
 .DS_Store
 Thumbs.db
 .vscode/
