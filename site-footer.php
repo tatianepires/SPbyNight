@@ -1,7 +1,11 @@
 <!-- Footer -->
 <footer class="fixed-footer">
     <div class="container text-center">
-        <small><?php echo t('footer.credit'); ?></small>
+        <div class="row align-items-center">
+            <div class="col">
+                <small><?php echo t('footer.credit'); ?></small>
+            </div>
+        </div>
     </div>
 </footer>
 
