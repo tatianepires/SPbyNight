@@ -38,8 +38,6 @@
 
     .nav-link {
         font-weight: 500;
-        text-transform: uppercase;
-        letter-spacing: 1px;
         color: #fff !important;
         transition: color 0.3s ease;
     }
