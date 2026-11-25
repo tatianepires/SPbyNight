@@ -34,7 +34,5 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Waterfall&display=swap" rel="stylesheet">
 
-    <?php
-    require_once ABSPATH . 'style.php';
-    ?>
+    <link rel="stylesheet" href="/site-assets/css/style.css?v=<?php echo filemtime(ABSPATH . 'site-assets/css/style.css'); ?>">
 </head>

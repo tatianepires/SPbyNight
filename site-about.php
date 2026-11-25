@@ -10,7 +10,7 @@
                 <p><?php echo t('about.p4'); ?></p>
             </div>
             <div class="col-md-6">
-                <img src="./site-assets/img/Sampa--Faria-Lima--Eduardo-Kobra-cyclist-mural--1000-square.jpg" alt="<?php echo t('about.img_alt'); ?>" class="img-fluid rounded shadow">
+                <img src="/site-assets/img/Sampa--Faria-Lima--Eduardo-Kobra-cyclist-mural--1000-square.jpg" alt="<?php echo t('about.img_alt'); ?>" class="img-fluid rounded shadow">
             </div>
         </div>
     </div>

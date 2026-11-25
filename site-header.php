@@ -20,23 +20,23 @@
         <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link" href="#home">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('nav.home'); ?></a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="#about">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('nav.about'); ?></a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="#storyteller">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('nav.storyteller'); ?></a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="#play">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('nav.play'); ?></a>
                 </li>
                 <li class="nav-item"><a class="nav-link" href="#contact">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('nav.contact'); ?></a>
                 </li>
                 <li class="nav-item ms-lg-3">

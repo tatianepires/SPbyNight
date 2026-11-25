@@ -64,6 +64,7 @@ return [
     'contact' => [
         'heading' => 'Contato',
         'prompt'  => 'Envie sua mensagem para',
+        'social_networks' => 'Redes Sociais do SP by Night',
     ],
     'footer' => [
         'credit' => 'SP by Night é um cenário autoral para o RPG Vampiro: A Máscara criado por <a href="https://tatianepires.com.br/">Tatiane Pires</a>.',

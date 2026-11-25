@@ -12,24 +12,24 @@
             <div class="col-md-4">
                 <h2 class="display-2 text-center mb-2 waterfall-regular"><?php echo t('play.where_to_play_subheading'); ?></h2>
                 <p class="text-center"><?php echo t('play.where_to_play_text'); ?></p>
-                <p class="text-center"><a href="<?php echo t('play.where_to_play_link'); ?>" class="gradient-hover" target="_blank">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
+                <p class="text-center"><a href="<?php echo t('play.where_to_play_link'); ?>" class="gradient-hover gradient-hover-light" target="_blank">
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/regular-dice-d10.svg');" aria-hidden="true"></span>
                     <?php echo t('play.where_to_play_link_text'); ?>
                 </a></p>
             </div>
             <div class="col-md-4">
                 <h2 class="display-2 text-center mb-2 waterfall-regular"><?php echo t('play.setting_info_subheading'); ?></h2>
                 <p class="text-center"><?php echo t('play.setting_info_text'); ?></p>
-                <p class="text-center"><a href="<?php echo t('play.setting_info_link'); ?>" class="gradient-hover" target="_blank">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/map.svg');" aria-hidden="true"></span>
+                <p class="text-center"><a href="<?php echo t('play.setting_info_link'); ?>" class="gradient-hover gradient-hover-light" target="_blank">
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/map.svg');" aria-hidden="true"></span>
                     <?php echo t('play.setting_info_link_text'); ?>
                 </a></p>
             </div>
             <div class="col-md-4">
                 <h2 class="display-2 text-center mb-2 waterfall-regular"><?php echo t('play.discord_server_subheading'); ?></h2>
                 <p class="text-center"><?php echo t('play.discord_server_text'); ?></p>
-                <p class="text-center"><a href="<?php echo t('play.discord_server_link'); ?>" class="gradient-hover" target="_blank">
-                    <span class="svg-icon" style="--icon-url: url('./site-assets/svg/discord.svg');" aria-hidden="true"></span>
+                <p class="text-center"><a href="<?php echo t('play.discord_server_link'); ?>" class="gradient-hover gradient-hover-light" target="_blank">
+                    <span class="svg-icon" style="--icon-url: url('/site-assets/svg/discord.svg');" aria-hidden="true"></span>
                     <?php echo t('play.discord_server_link_text'); ?>
                 </a></p>
             </div>

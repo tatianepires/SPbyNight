@@ -64,6 +64,7 @@ return [
     'contact' => [
         'heading' => 'Contact',
         'prompt'  => 'Send your message to',
+        'social_networks' => 'SP by Night’s Social Networks',
     ],
     'footer' => [
         'credit' => 'SP by Night is an original Vampire: The Masquerade RPG setting created by <a href="https://tatianepires.com.br/">Tatiane Pires</a>.',
