@@ -2,7 +2,7 @@
 return [
     'html_lang' => 'en',
     'meta' => [
-        'title'       => 'SP by Night &mdash; Original Vampire: The Masquerade RPG setting created by Tatiane Pires',
+        'title'       => 'SP by Night – Original Vampire: The Masquerade RPG setting created by Tatiane Pires',
         'description' => 'Original Vampire: The Masquerade RPG setting set in São Paulo, created by Storyteller Tatiane Pires.',
         'locale'      => 'en_US',
         'url'         => 'https://spbynight.city/en',

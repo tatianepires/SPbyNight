@@ -2,7 +2,7 @@
 return [
     'html_lang' => 'pt-BR',
     'meta' => [
-        'title'       => 'SP by Night &mdash; Cenário original para o RPG Vampiro: A Máscara criado por Tatiane Pires',
+        'title'       => 'SP by Night – Cenário original para o RPG Vampiro: A Máscara criado por Tatiane Pires',
         'description' => 'Cenário original para o RPG Vampiro: A Máscara ambientado em São Paulo, criado pela Storyteller Tatiane Pires.',
         'locale'      => 'pt_BR',
         'url'         => 'https://spbynight.city/pt',
